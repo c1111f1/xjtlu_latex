@@ -13,7 +13,7 @@
 %Your teacher
 \lecturer{Mr.Cheng}
 %The date
-\finishdate{June/6/2013}
+\finishdate{April/6/2013}
 
 \begin{document}
 % set line spacing to 1.5B
@@ -58,7 +58,7 @@ Write your abstract here.
 
 \section{Section 1.1}\label{sec:s11}
 
-How to add a citation or reference \cite{lun2000study}. Please open the file reference.bib to check how to
+How to add a citation or reference \cite{lun2000study}. Please open the file reference.bib to check how to 
 add a citation. Google scholar and IEEE Xplore provide the right format of citation. You can copy Bibtex format
 to reference.bib and use cite command in tex file to cite the reference.
 
